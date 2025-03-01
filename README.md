@@ -1,6 +1,6 @@
 # Personal Portfolio ⚡️ 
 > 
-> https://senthilvelan.github.io
+> https://rsenthilvelan.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/rsenthilvelan/rsenthilvelan.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/rsenthilvelan/rsenthilvelan.github.io)
